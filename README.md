@@ -7,7 +7,7 @@
   ### � À Propos
 
   <a href="https://github.com/noa-panfil">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=8130DB&background=23272A00&center=true&vCenter=true&width=900&lines=Étudiant+Ingénieur+Informatique+à+SUPINFO;Passionné+par+le+Dev+Web;N'hésite+pas+à+me+contacter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=8130DB&background=23272A00&center=true&vCenter=true&width=900&lines=%C3%89tudiant+Ing%C3%A9nieur+Informatique+%C3%A0+SUPINFO;Passionn%C3%A9+par+le+Dev+Web;N%27h%C3%A9site+pas+%C3%A0+me+contacter" alt="Typing SVG" />
   </a>
 
   <!-- Imitating a stylized code block or terminal -->

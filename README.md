@@ -1,16 +1,15 @@
-<div align="center">
+﻿<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8130DB&height=250&section=header&text=Noa%20Panfil&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Développeur%20Web%20Passionné%20|%20Lille,%20France&descAlignY=60&descAlign=50&animation=twinkling" width="100%" />
 
   <br />
 
-  ### � À Propos
+  ### 👨‍💻 À Propos
 
   <a href="https://github.com/noa-panfil">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=8130DB&background=23272A00&center=true&vCenter=true&width=900&lines=%C3%89tudiant+Ing%C3%A9nieur+Informatique+%C3%A0+SUPINFO;Passionn%C3%A9+par+le+Dev+Web;N%27h%C3%A9site+pas+%C3%A0+me+contacter" alt="Typing SVG" />
   </a>
 
-  <!-- Imitating a stylized code block or terminal -->
   <br/>
   
   <p align="center">
